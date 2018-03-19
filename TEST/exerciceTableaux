@@ -1,0 +1,15 @@
+<?php
+
+$films = [
+ [
+     'name' => 'Kiss Kiss Bang Bang',
+     'actor' => 'Robert Downey Jr',
+ ],
+ [
+     'name' => 'Men In Black',
+     'actor' => ['Tommy Lee Jones', 'Will Smith'],
+ ],
+];
+
+    print $films;
+?>
