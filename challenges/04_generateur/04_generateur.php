@@ -1,7 +1,7 @@
 <?php
 
 $phrase = [
-    'adjectif' => ['petit(e)', 'grand(e)', 'beau(lle)', 'mignon(ne)', 'adorable', 'gentil(le)', 'amical(e)', 'heureux(se)', 'sympathique', 'épatant(e)', 'fort(e)', 'bon(ne)', 'poli(e)', 'sociable'],
+    'adjectif' => ['petit(e)', 'grand(e)', 'beau/belle', 'mignon(ne)', 'adorable', 'gentil(le)', 'amical(e)', 'heureux(se)', 'sympathique', 'épatant(e)', 'fort(e)', 'bon(ne)', 'poli(e)', 'sociable'],
     'name' => ['chat', 'développeur', 'professeur', 'ami', 'castor', 'girafe','ananas', 'kiwi', 'lavabo', 'licorne', 'koala'],
     'color' => ['rouge', 'orange', 'jaune', 'vert', 'bleu', 'violet', 'bordeaux', 'à pois', 'à rayures', 'tacheté'],
 ];
